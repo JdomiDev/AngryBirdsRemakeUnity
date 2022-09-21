@@ -1,0 +1,1694 @@
+fileFormatVersion: 2
+guid: cd4ee6c8b8975944a8aed4066390b405
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: red0
+      rect:
+        serializedVersion: 2
+        x: 3524
+        y: 416
+        width: 181
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8828ac75c5f83347914fc53d59fc542
+      internalID: 692989324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red1
+      rect:
+        serializedVersion: 2
+        x: 3192
+        y: 12
+        width: 181
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: addfb14722eb91f429e21002ab47fcfa
+      internalID: 1021721536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redCollided
+      rect:
+        serializedVersion: 2
+        x: 3193
+        y: 198
+        width: 184
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb9259b5dc91dd4ca19f68d6e1fb78c
+      internalID: 1504995369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redThrown
+      rect:
+        serializedVersion: 2
+        x: 3392
+        y: 209
+        width: 197
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db47cb888e907846acdc0dd5c059633
+      internalID: -1136768573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blues0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3057
+        width: 123
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11cd5e7f6777f85438fff3663260e290
+      internalID: 1561199135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluesCollided
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2929
+        width: 124
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d1478e86f8cf8439571af4f1041500
+      internalID: 1645829088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blues2
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2803
+        width: 116
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97882d8f6c4abad46872de75ab8ff282
+      internalID: -1080344521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluesThrown1
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2683
+        width: 116
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea52656aada042438191864497f8dad
+      internalID: -1838044969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuckBoost
+      rect:
+        serializedVersion: 2
+        x: 3201
+        y: 383
+        width: 308
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca360538b67236468b7a8af44d4a83b
+      internalID: 103557078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuckThrown
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 33
+        width: 272
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47dae53426581e44aa86d1889bbada2
+      internalID: -2019837292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuck0
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 61
+        width: 231
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4cf33f9e15c49940b01bb4e75639127
+      internalID: -1184617058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuck1
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 944
+        width: 230
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aed213ef2e4ab94d805c2ee59d0f2b9
+      internalID: 1344276138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuckCollided
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 4
+        width: 236
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d11313b7b23594bb219b9c286256a2
+      internalID: -1613087475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terence0
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 994
+        width: 391
+        height: 377
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dfa9fc38da30894b84e70057749e8a1
+      internalID: 1890752027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terence1
+      rect:
+        serializedVersion: 2
+        x: 2021
+        y: 2971
+        width: 390
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee63496c1d602544a5daf44a494325c
+      internalID: -1162720578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terence2
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 2198
+        width: 391
+        height: 370
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1302ba858f8d3489f1603c1162d303
+      internalID: -1376083126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matildaEmpty
+      rect:
+        serializedVersion: 2
+        x: 3417
+        y: 3387
+        width: 196
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0afb814c4099c2b4b933546ffc7e3156
+      internalID: 999990092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matildaCollide
+      rect:
+        serializedVersion: 2
+        x: 2366
+        y: 1858
+        width: 312
+        height: 337
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856310bfbd054164bbf785c4535c8127
+      internalID: 912368761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matilda2
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 2576
+        width: 324
+        height: 377
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9701d9306648cc54dafee69b61ca5c72
+      internalID: -316435628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matildaThrown0
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 1061
+        width: 340
+        height: 367
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611ba6f21a763dc41954e90333793c6f
+      internalID: 1904913161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matilda1
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 1436
+        width: 321
+        height: 372
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3617b41a3fddf4f8c1eff5bdad5bd1
+      internalID: -2110312231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matilda0
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 1817
+        width: 320
+        height: 373
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e1505cea88ee74a8fd4b3b771f36ab
+      internalID: -931437307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb0
+      rect:
+        serializedVersion: 2
+        x: 3418
+        y: 3659
+        width: 243
+        height: 321
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b396abb10ae1c194b9f5b9d022ebeddd
+      internalID: 624697738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb1
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 1171
+        width: 242
+        height: 321
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3643e07808203904cbd4af54f098d6b1
+      internalID: 938100404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombThrown0
+      rect:
+        serializedVersion: 2
+        x: 3444
+        y: 1209
+        width: 243
+        height: 283
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4bbd902fcb4e549a9584678e9a93c6
+      internalID: 1099721088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb2
+      rect:
+        serializedVersion: 2
+        x: 3419
+        y: 1511
+        width: 241
+        height: 321
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c0adbaee591c864e9f8cc1e3c749cf1
+      internalID: -245142303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombExplode0
+      rect:
+        serializedVersion: 2
+        x: 3447
+        y: 1876
+        width: 242
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d4d428990d3104caf90da3017406b1
+      internalID: -336640651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombExplode1
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 487
+        width: 243
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc8aa4695e2fa446b7e1b4eb2ffad2b
+      internalID: 1120655569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombExplode2
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 155
+        width: 256
+        height: 321
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd341d38d51b0b14fb05391b635bdaa7
+      internalID: 1755200579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red2
+      rect:
+        serializedVersion: 2
+        x: 3392
+        y: 32
+        width: 198
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd266759a5accb4882d1c830c9839ee
+      internalID: 1741999790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuck2
+      rect:
+        serializedVersion: 2
+        x: 3477
+        y: 2736
+        width: 230
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f4a2b3083dec648b1fbc1ca836e4cd
+      internalID: 573932130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingPigHigh0
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 3376
+        width: 502
+        height: 601
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b4aec1ed693a04cb5d6d715ae6c9f7
+      internalID: 1904144430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingPigHigh1
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 3370
+        width: 502
+        height: 607
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0781ac8167656c4b9b839deeb84c30a
+      internalID: 1474877079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingPigMed0
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 3370
+        width: 502
+        height: 607
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92b14ae371f338458073299d41cd2bb
+      internalID: -243512493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingPigMed1
+      rect:
+        serializedVersion: 2
+        x: 2212
+        y: 3370
+        width: 502
+        height: 607
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a37e706fb6c1c4298e4a8d321c74db
+      internalID: -2127211683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingPigLow0
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 3370
+        width: 502
+        height: 607
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a1f5b3aa3250b4ea5449d71e5e18b3
+      internalID: 562190605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kingPigLow1
+      rect:
+        serializedVersion: 2
+        x: 2724
+        y: 3370
+        width: 502
+        height: 607
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ff5af34bf8d6f4bb7f8c8abdb311fa
+      internalID: -147900069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bigPigHigh0
+      rect:
+        serializedVersion: 2
+        x: 3308
+        y: 2973
+        width: 391
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961337feac8d5fa4cb511af46d4089c6
+      internalID: 2013516213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bigPigHigh1
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 2169
+        width: 391
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9adc138f092c9794db683c8c98cb1a7b
+      internalID: -872194235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bigPigMed0
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 2581
+        width: 391
+        height: 368
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1145a687c0121448b44a4d56d88b23e
+      internalID: 2076731559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bigPigMed1
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 2581
+        width: 392
+        height: 368
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00a5e7282a659747a5b25e49c9f3eb9
+      internalID: -1034775835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bigPigLow1
+      rect:
+        serializedVersion: 2
+        x: 2265
+        y: 2580
+        width: 392
+        height: 368
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69faedb7846bc8640aed5f6d3934ba7a
+      internalID: 167294709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bigPigLow0
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 1381
+        width: 392
+        height: 368
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b378274b6c126484a9fad96505b5cba6
+      internalID: 1299589539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medPigHigh0
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 1185
+        width: 312
+        height: 308
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c622d81b7b4ba1244a4c91778d2fa37e
+      internalID: 190044727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medPigHigh1
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 869
+        width: 312
+        height: 308
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ae80d80b90ba9428ef9620a8ea1a6c
+      internalID: -1269946343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medPigMed0
+      rect:
+        serializedVersion: 2
+        x: 2469
+        y: 1197
+        width: 313
+        height: 293
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0af2cbaf3e34640bf073ebb2a1608d
+      internalID: 359140376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medPigMed1
+      rect:
+        serializedVersion: 2
+        x: 2794
+        y: 1197
+        width: 312
+        height: 293
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b980aa9a2cdddd409e96e9e07634749
+      internalID: -648461433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medPigLow0
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 249
+        width: 312
+        height: 294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06cd73dd4e41a204e98a49c17ffa040f
+      internalID: 379563605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medPigLow1
+      rect:
+        serializedVersion: 2
+        x: 2468
+        y: 893
+        width: 311
+        height: 294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bcf715838ecca047a53b782fb9d7c89
+      internalID: -1080406937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helmetPigHigh0
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 1500
+        width: 369
+        height: 333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7372379514cf0de449ce109295e885b4
+      internalID: -578972857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helmetPigHigh1
+      rect:
+        serializedVersion: 2
+        x: 2691
+        y: 1861
+        width: 368
+        height: 333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bceae9aa890d5b47b8864aa8629d1e5
+      internalID: -1694175168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helmetPigMed0
+      rect:
+        serializedVersion: 2
+        x: 2277
+        y: 1500
+        width: 368
+        height: 333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e80c0f95e1b2ba4296584e7e90ce82f
+      internalID: 315095126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helmetPigMed1
+      rect:
+        serializedVersion: 2
+        x: 3069
+        y: 1861
+        width: 368
+        height: 333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b4d7fc9aeb7ce40a0720a8b17d958b
+      internalID: -984953161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helmetPigLow0
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 1156
+        width: 367
+        height: 333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 299ff474599ad54449496f4e7fb0efce
+      internalID: -1853137716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helmetPigLow1
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 1497
+        width: 367
+        height: 332
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c34fac472dd7e884bb195809b799c99f
+      internalID: -1225170910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallPigHigh0
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 33
+        width: 190
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada0072ab08a2834cacf111eafa0af83
+      internalID: -1693330897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallPigHigh1
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 560
+        width: 190
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb4cfeb7b2873054f9e183c14c721d47
+      internalID: -1282066469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallPigMed0
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 752
+        width: 189
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a935f5935a1a140a1c3af3e88e8dbc
+      internalID: -1372903641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallPigMed1
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 369
+        width: 190
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff56f4cc6a382084a8af2f4bcd0db2c0
+      internalID: 1782771267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallPigLow0
+      rect:
+        serializedVersion: 2
+        x: 2469
+        y: 209
+        width: 190
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2484c833c637e124bbd7794763211db5
+      internalID: 1018017527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallPigLow1
+      rect:
+        serializedVersion: 2
+        x: 2469
+        y: 21
+        width: 190
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4675942556a909149a57dd9d5931678e
+      internalID: 875194385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foremanPigHigh0
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1103
+        width: 436
+        height: 395
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344f9d41a21a9024982693800b105394
+      internalID: 535817296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foremanPigHigh1
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 2965
+        width: 436
+        height: 395
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba3bbc418c3ec8468a03e43fd8a1bb5
+      internalID: -1159337533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foremanPigLow1
+      rect:
+        serializedVersion: 2
+        x: 2863
+        y: 2973
+        width: 437
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8e835797241b44b8ce33adf88f77a1
+      internalID: -318501544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foremanPigLow0
+      rect:
+        serializedVersion: 2
+        x: 2419
+        y: 2975
+        width: 438
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7e769cf9977cd4c9849120749892c4
+      internalID: 465878475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foremanPigMed0
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 695
+        width: 436
+        height: 395
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d3c9bfc9cc5fc54696924461f5affb7
+      internalID: -999578430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foremanPigMed1
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 2965
+        width: 437
+        height: 395
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ecd89d9018e174ca0e90761050fb5f
+      internalID: 292935724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigLaugh
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 1773
+        width: 391
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d58f818a839b448917d1a01921e036
+      internalID: 202196007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slingshot1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3185
+        width: 155
+        height: 793
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c19e86d5bca694187aefd21d995af6
+      internalID: 1112202622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slingshot0
+      rect:
+        serializedVersion: 2
+        x: 3236
+        y: 3485
+        width: 171
+        height: 495
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d3679b26e5a92439d867d802eee299
+      internalID: -1324259771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slingshotEnd
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2568
+        width: 71
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850f22aa9300f8d488a7de18baecf7b4
+      internalID: 1959901098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      terence1: -1162720578
+      slingshot1: 1112202622
+      medPigLow0: 379563605
+      redThrown: -1136768573
+      bluesThrown1: -1838044969
+      red2: 1741999790
+      smallPigHigh1: -1282066469
+      medPigMed0: 359140376
+      bomb2: -245142303
+      kingPigMed1: -2127211683
+      bigPigHigh1: -872194235
+      birds_7: 2004523415
+      medPigLow1: -1080406937
+      bigPigHigh0: 2013516213
+      foremanPigHigh1: -1159337533
+      smallPigHigh0: -1693330897
+      matildaThrown0: 1904913161
+      foremanPigLow1: -318501544
+      bluesCollided: 1645829088
+      bombExplode0: -336640651
+      birds_10: -2107351184
+      helmetPigHigh1: -1694175168
+      kingPigLow1: -147900069
+      slingshotEnd: 1959901098
+      chuck1: 1344276138
+      foremanPigMed1: 292935724
+      bigPigMed0: 2076731559
+      redCollided: 1504995369
+      chuckThrown: -2019837292
+      chuck0: -1184617058
+      matilda2: -316435628
+      terence2: -1376083126
+      bombThrown0: 1099721088
+      foremanPigLow0: 465878475
+      blues2: -1080344521
+      chuckBoost: 103557078
+      birds_1: 1870571858
+      smallPigLow1: 875194385
+      foremanPigHigh0: 535817296
+      bombExplode2: 1755200579
+      terence0: 1890752027
+      smallPigLow0: 1018017527
+      pigLaugh: -21803363
+      matilda0: -931437307
+      smallPigMed1: 1782771267
+      matildaEmpty: 999990092
+      birds_3: 1333815761
+      birds_2: -1802709834
+      helmetPigLow1: -1225170910
+      birds_4: 2061529873
+      medPigHigh0: 190044727
+      helmetPigMed1: -984953161
+      kingPigHigh1: 1474877079
+      blues0: 1561199135
+      helmetPigMed0: 315095126
+      slingshot0: -1324259771
+      helmetPigLow0: -1853137716
+      matildaCollide: 912368761
+      kingPigHigh0: 1904144430
+      bigPigLow1: 167294709
+      birds_8: -403553765
+      bigPigLow0: 1299589539
+      chuckCollided: -1613087475
+      chuck2: 573932130
+      birds_9: 169199292
+      red1: 1021721536
+      matilda1: -2110312231
+      medPigMed1: -648461433
+      birds_5: -1009922044
+      smallPigMed0: -1372903641
+      red0: 692989324
+      kingPigLow0: 562190605
+      bomb1: 938100404
+      bigPigMed1: -1034775835
+      birds_6: 1315983938
+      bomb0: 624697738
+      helmetPigHigh0: -578972857
+      bombExplode1: 1120655569
+      medPigHigh1: -1269946343
+      foremanPigMed0: -999578430
+      kingPigMed0: -243512493
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

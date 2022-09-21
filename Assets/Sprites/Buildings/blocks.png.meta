@@ -1,0 +1,2874 @@
+fileFormatVersion: 2
+guid: 2288a53a3131d4c4ca61ba46d03f0b8f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: woodL2_0
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 1604
+        width: 813
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d0d30c0f45ad54289331122fe5d3db
+      internalID: -1328202100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: woodL2_1
+      rect:
+        serializedVersion: 2
+        x: 2323
+        y: 1604
+        width: 813
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ffeb3f3f563e6840bb0c3377a50decb
+      internalID: 1585215805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: woodL2_2
+      rect:
+        serializedVersion: 2
+        x: 3146
+        y: 1604
+        width: 813
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 561971af17e115f49bb230aa7d9bc629
+      internalID: -659381182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: woodL2_
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 1521
+        width: 813
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4287cd716b2d7f44a99af30db8231ee9
+      internalID: 1616137067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: woodL1_0
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 1184
+        width: 666
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e398d8ff740894fb5f497744033937
+      internalID: -921863230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: woodL1_1
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 932
+        width: 666
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad1015f823c13847b96e4fe56b94eff
+      internalID: -751612545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: woodL1_2
+      rect:
+        serializedVersion: 2
+        x: 2186
+        y: 1083
+        width: 666
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b5efe51b6d6d446b8468697f7c15da
+      internalID: 656164732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blocks_0
+      rect:
+        serializedVersion: 2
+        x: 2186
+        y: 1083
+        width: 666
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e7b29b603492e4093892fc8809b9da
+      internalID: 709916460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: woodL1_3
+      rect:
+        serializedVersion: 2
+        x: 2882
+        y: 1240
+        width: 666
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3736f8f2f226ce1458ae9ebe72fad078
+      internalID: -10836642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: woodM1_0
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 904
+        width: 331
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ab8a05ccd87674c8c8389c5e77b443
+      internalID: -1808877001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: woodM1_1
+      rect:
+        serializedVersion: 2
+        x: 3217
+        y: 1071
+        width: 331
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83fc79fd6108174ca28d54257f84b3d
+      internalID: 1381972392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: woodM1_2
+      rect:
+        serializedVersion: 2
+        x: 3585
+        y: 1228
+        width: 331
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa34c0a8787b7e642bd65f4eb926b6f9
+      internalID: 1548436341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: woodM1_3
+      rect:
+        serializedVersion: 2
+        x: 3581
+        y: 876
+        width: 331
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dfc6878fadf8fd45a1f5ab8a1be2132
+      internalID: 1469454727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: woodS1_0
+      rect:
+        serializedVersion: 2
+        x: 3129
+        y: 3316
+        width: 162
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6138ce58d1af8c4fa2e5dd58eef2a5e
+      internalID: 257507543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: woodS1_1
+      rect:
+        serializedVersion: 2
+        x: 2133
+        y: 3316
+        width: 162
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba98263538c05114b9b788e2afa5c7ef
+      internalID: -1658665599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: woodS1_2
+      rect:
+        serializedVersion: 2
+        x: 2401
+        y: 299
+        width: 162
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a217681dac5acd745a8ec85601f36d1c
+      internalID: -1267630055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: woodS1_
+      rect:
+        serializedVersion: 2
+        x: 3913
+        y: 1892
+        width: 162
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b631b06a777f13240b18a9d5a4ff5dc0
+      internalID: 770659362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bounce
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 1836
+        width: 612
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef63272406fcdb429f1f5a0c10bd9ad
+      internalID: -850076986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: woodS2_0
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 3336
+        width: 79
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d3297712598f2d4a84a8d3704e34037
+      internalID: 83614125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: woodS2_1
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 3504
+        width: 79
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3391326d910b8f446b5f9345c1c3425c
+      internalID: -1929981924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: woodS2_2
+      rect:
+        serializedVersion: 2
+        x: 2632
+        y: 3315
+        width: 79
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0021dab7b803246a8e064e873cc673
+      internalID: 1139841635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: woodS2_3
+      rect:
+        serializedVersion: 2
+        x: 3975
+        y: 3980
+        width: 79
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23fac20534123a448ba4e3562531426
+      internalID: -237484658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smallPivot
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 2148
+        width: 710
+        height: 219
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0825fe1bbb831ce4ca9e27109484898e
+      internalID: 565240190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: woodSQH1_0
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 3732
+        width: 328
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e4c202abf9ef746bf1e9fcabcd39dd
+      internalID: -113655507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: woodSQH1_1
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 3400
+        width: 328
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909772d465802b640bc41dd77513e8cc
+      internalID: -622378020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: woodSQH1_2
+      rect:
+        serializedVersion: 2
+        x: 2132
+        y: 3733
+        width: 328
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5293a56bec0b91c48a2cf52585356e38
+      internalID: -1348311401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: woodSQH1_3
+      rect:
+        serializedVersion: 2
+        x: 2132
+        y: 3400
+        width: 328
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc41ae697a86964a8efa858376e8f16
+      internalID: -2121645436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: woodTR1_0
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 3733
+        width: 328
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28598cedf05f31048a776b82598a2120
+      internalID: 64986992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: woodTR1_1
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 3400
+        width: 328
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932fcf8617d55004082b7b37359856f7
+      internalID: -2006063641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: woodTR1_2
+      rect:
+        serializedVersion: 2
+        x: 2796
+        y: 3732
+        width: 328
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b669d35b3b6196241a0d1a78adef2440
+      internalID: -649778701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: woodTR1_3
+      rect:
+        serializedVersion: 2
+        x: 2796
+        y: 3401
+        width: 328
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525c27d0d5640104789449ca5ca78819
+      internalID: 503827786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: woodRE1_0
+      rect:
+        serializedVersion: 2
+        x: 2961
+        y: 1979
+        width: 330
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b895edab685684dbc50cfc91969542
+      internalID: 1286896224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: woodRE1_1
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 1809
+        width: 330
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf0068e815324e4baeb2323c2562575
+      internalID: -229868444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: woodRE1_2
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 1305
+        width: 330
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c6e87aa8b0199346bacece1c8dccda0
+      internalID: -2096206502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: woodRE1_3
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 801
+        width: 330
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b050c1be034984db5e45fc2760e62b
+      internalID: -1831489961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: woodSQ1_0
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 1469
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e068a8ffccf5ccc4e88a0e4f90c8db37
+      internalID: 453680261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: woodSQ1_1
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 1135
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1e0ec431c00d84fb4cdbb2d172d966
+      internalID: -992273696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: woodSQ1_2
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 629
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a65724124b8a54a9cc8cf5d84d0b15
+      internalID: -1431490154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: woodSQ1_3
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 126
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec6de218f1ac084aa96637a012b00bb
+      internalID: 105490931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: woodTR2_0
+      rect:
+        serializedVersion: 2
+        x: 2619
+        y: 2948
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b036536d22cf17428af53cb1cf46e18
+      internalID: -1223213141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: woodTR2_1
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 2949
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 211d7f2e6d87b2645b07e8fd5fa7904e
+      internalID: -6497008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: woodTR2_2
+      rect:
+        serializedVersion: 2
+        x: 3268
+        y: 2950
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0c762f43e7bab4a8538c1d9ecc3226
+      internalID: -2072191605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: woodTR2_3
+      rect:
+        serializedVersion: 2
+        x: 3592
+        y: 2949
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc6c275c054f7a4bbebebb5cd7be9ff
+      internalID: 381598743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glassL2_0
+      rect:
+        serializedVersion: 2
+        x: 2323
+        y: 1521
+        width: 813
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd3ad3a80555df4aa25dd65c06bc17b
+      internalID: -965524131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glassL2_1
+      rect:
+        serializedVersion: 2
+        x: 3145
+        y: 1520
+        width: 813
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef9c8f60d2065264ab01e9d3bb177251
+      internalID: 1506407626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glassL2_2
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1436
+        width: 813
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e6f7375e8e4f5448c42c1470e9e43b
+      internalID: -71771492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glassL2_3
+      rect:
+        serializedVersion: 2
+        x: 2322
+        y: 1436
+        width: 813
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47dd48c23e1defb49942bfc08ce5777d
+      internalID: 719527826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glassL1_0
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 1100
+        width: 666
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2fc9deaf18f56748ac996a75b2c2694
+      internalID: -1883468984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glassL1_1
+      rect:
+        serializedVersion: 2
+        x: 2186
+        y: 1251
+        width: 666
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c60a2d544af2b49afe6907737c34b9
+      internalID: 2138296256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glassL1_2
+      rect:
+        serializedVersion: 2
+        x: 2186
+        y: 1000
+        width: 666
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd278f7fbdddc3408e1fb9496a981e9
+      internalID: 1877422972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glassL1_3
+      rect:
+        serializedVersion: 2
+        x: 2882
+        y: 1155
+        width: 666
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0d811c4ae1cc643a99825f47864056
+      internalID: -539436022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glassM1_0
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 988
+        width: 331
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ddedffc545f50d4eac8594c33d5257a
+      internalID: 476029605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glassM1_1
+      rect:
+        serializedVersion: 2
+        x: 3217
+        y: 903
+        width: 331
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34a03e380e8d2742959e56af2332e5b
+      internalID: 1606673898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glassM1_2
+      rect:
+        serializedVersion: 2
+        x: 3581
+        y: 960
+        width: 331
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4d9fea633889e4ab0b482056980d2f
+      internalID: 298069923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glassM1_3
+      rect:
+        serializedVersion: 2
+        x: 3585
+        y: 1061
+        width: 331
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b068ea38cd53514e8b4b7e71f7242f6
+      internalID: -702987960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glassSQH1_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1612
+        width: 328
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c5b06c0511a6f4d8a59a4ca88f81c6
+      internalID: 1902540940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glassSQH1_1
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1278
+        width: 328
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9808bb63e1ee64a82d93ea9b3cc0c2
+      internalID: -132788467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glassSQH1_2
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 947
+        width: 328
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837796e1a4af0da45808daa9878df3ab
+      internalID: 1390667739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glassSQH1_3
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 617
+        width: 328
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34e48e9690ef20469fce0508507ea17
+      internalID: -772886519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glassTR2_0
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 2615
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b0d29a586319d47851452e50841bbb
+      internalID: 387655129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glassTR2_1
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 2292
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c2f584676badd4a85f36a81fcab7bb
+      internalID: 1001663816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glassTR2_2
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1968
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa2c55e99c2c0644b407960dfbe90c2
+      internalID: 472899754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glassTR2_3
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1644
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46d69a2e4166b74fa1c91ba64d713f4
+      internalID: -470039300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glassSQ1_0
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 1805
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cec10ba573eb5c4689475839d9e155c
+      internalID: -88771675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glassSQ1_1
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 966
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c390f1ec82bfb944cb383f406e5dddd5
+      internalID: 906850734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glassSQ1_2
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 461
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c89eda375ba893548a83e9067542a3c6
+      internalID: 1729510222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glassSQ1_3
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 189
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f555c6e2997cbf24e886493f386a043e
+      internalID: 284631775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glassS2_0
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 3320
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81da8ce296d388546b4ab72be2009724
+      internalID: -542862719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glassS2_1
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 3316
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5d355e42c8b1b41b86acd7ca5fb4fe
+      internalID: -656428331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glassS2_2
+      rect:
+        serializedVersion: 2
+        x: 2963
+        y: 3316
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458b97d478988ac46b4b26e4168596dc
+      internalID: -555566724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glassS2_3
+      rect:
+        serializedVersion: 2
+        x: 3976
+        y: 3896
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e4118f4b6ca2741b38dfcd38e3a63a
+      internalID: -559815955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glassRE1_0
+      rect:
+        serializedVersion: 2
+        x: 3297
+        y: 1978
+        width: 330
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0997be8280462479b0058ca5b7fa82
+      internalID: -483092034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glassRE1_1
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 1643
+        width: 330
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c86cbb01702dc4da374cfdc7c2d811
+      internalID: 1024176220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glassRE1_2
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 1137
+        width: 330
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294a0f7943ef1c348b987d52a10de99e
+      internalID: 1966400380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glassRE1_3
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 633
+        width: 330
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 510657fdc1dc82a408af93cc83234030
+      internalID: -1868196179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glassTR1_0
+      rect:
+        serializedVersion: 2
+        x: 3128
+        y: 3732
+        width: 328
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d4ea2174af9444caf3c8d9731d3080
+      internalID: 949560963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glassTR1_1
+      rect:
+        serializedVersion: 2
+        x: 3128
+        y: 3401
+        width: 328
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 099c2b766c2adf74c8fc411ae60fbad7
+      internalID: 1395785860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glassTR1_2
+      rect:
+        serializedVersion: 2
+        x: 3460
+        y: 3732
+        width: 328
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdcb22494765916488dfa781b8132590
+      internalID: -151198800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glassTR1_3
+      rect:
+        serializedVersion: 2
+        x: 3460
+        y: 3401
+        width: 328
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 845e1dabdf2fe3a4fbebe897adde1220
+      internalID: 893320268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glassS1_0
+      rect:
+        serializedVersion: 2
+        x: 2465
+        y: 3316
+        width: 162
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ea146459b81d1459470e83df18d6d6
+      internalID: 1365686312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glassS1_1
+      rect:
+        serializedVersion: 2
+        x: 3461
+        y: 3316
+        width: 162
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b5de92c01fccc24cb48093e22188130
+      internalID: -2049466241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glassS1_2
+      rect:
+        serializedVersion: 2
+        x: 2201
+        y: 323
+        width: 162
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1d9c103093e454192019c4da59c3d6
+      internalID: 2005226977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glassS1_3
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 408
+        width: 162
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e02f3d81bdaa4ff43a4c7cd7cafee4d6
+      internalID: -1408687602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockRE1_0
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 1977
+        width: 330
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554591c00c73e4046abff3e5e49bded4
+      internalID: -2086683791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockRE1_1
+      rect:
+        serializedVersion: 2
+        x: 3633
+        y: 1978
+        width: 330
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555a1206cedeb9f4a907810fcc306e7a
+      internalID: -174536597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockRE1_2
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 1472
+        width: 330
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd983f3e492754e46b05513696a3be4d
+      internalID: 1791085722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockRE1_3
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 970
+        width: 330
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f98a00d27d2e334c9622a6ec8993bb3
+      internalID: 64734983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockSQH1_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 284
+        width: 328
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f69969a6d810e046a45b50be4ac2e23
+      internalID: 1145405682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockSQH1_1
+      rect:
+        serializedVersion: 2
+        x: 3036
+        y: 248
+        width: 328
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d3040d37ecf494494f3fc7500dd83d
+      internalID: 1202094592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockSQH1_2
+      rect:
+        serializedVersion: 2
+        x: 3576
+        y: 532
+        width: 328
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a562049399cdd45b8a0744562b9b36
+      internalID: -1712531470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockSQH1_3
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 2941
+        width: 328
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4303ef83979dd4b448fce234f6f21063
+      internalID: 2016218614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockTR1_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2940
+        width: 328
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd519a195da637040a6e00d83d3787a2
+      internalID: -1390307950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockTR1_1
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2608
+        width: 328
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25aaceb03ca41f3468931734af1dabe0
+      internalID: -917084723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockTR1_2
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2277
+        width: 328
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d154eec7f27396c409f59c762ee8cef3
+      internalID: 15326228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockTR1_3
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1944
+        width: 328
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1caa0796628070843a0f974260e6b6ba
+      internalID: -204259878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockSQ1_0
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 1639
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6211f1dc20d8a96418c9b1dffad8bf6e
+      internalID: -1893628554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockSQ1_1
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 1301
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6075f00934a7aa44eab32e2cef4c1dc4
+      internalID: 1131203237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockSQ1_2
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 798
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b9821fdc8c66240a2ef08e27e69c93
+      internalID: -1888647556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockSQ1_3
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 294
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25a1088bdaefd8499bd309842b5e855
+      internalID: -83033091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockTR2_0
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 2947
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992cb871f52ff6a4a80a122f7616ba96
+      internalID: -710929761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockTR2_1
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 2947
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8972b43546405c43bf389566bdcd206
+      internalID: 489481762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockTR2_2
+      rect:
+        serializedVersion: 2
+        x: 1972
+        y: 2947
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9eda9e9b36d49d43ae6bc40f569bb8a
+      internalID: 1622076535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockTR2_3
+      rect:
+        serializedVersion: 2
+        x: 2296
+        y: 2947
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6bd678a4fb6a5446997871bd21d731b
+      internalID: -1490202555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockS2_0
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 3588
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6c3ce8d07903348a7f2f80bf566e93
+      internalID: 1945287625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockS2_1
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 3420
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1385f6b414c9e849abbb1f75797abe4
+      internalID: 917790728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockS2_2
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 3316
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c40db403918454eaba57328a971973
+      internalID: 388724972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockS2_3
+      rect:
+        serializedVersion: 2
+        x: 3296
+        y: 3316
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c1e972efd66fc4e8dd55a7ea6a24a7
+      internalID: -1293884688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockS1_0
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 3315
+        width: 162
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f17aa9578a3c174dbf0c368b0029229
+      internalID: 56866805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockS1_1
+      rect:
+        serializedVersion: 2
+        x: 2797
+        y: 3316
+        width: 162
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbafdb2d5276526488d067e2517cfe02
+      internalID: 1424124615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockS1_2
+      rect:
+        serializedVersion: 2
+        x: 3917
+        y: 2952
+        width: 162
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e57f87ad6f49464d8a9a9fa25bc396d
+      internalID: -1428023421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockS1_3
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 428
+        width: 162
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c9c019554d11142be687840d76f076
+      internalID: -1310806697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockL2_0
+      rect:
+        serializedVersion: 2
+        x: 3147
+        y: 1436
+        width: 813
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d968d096106ac0428c5ea015105d0c6
+      internalID: 2133116957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockL2_1
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 1352
+        width: 813
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb99039891380e244af53ad8518d21d9
+      internalID: 119795675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockL2_2
+      rect:
+        serializedVersion: 2
+        x: 2322
+        y: 1352
+        width: 813
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d9df91f90563d4fa98b3d8cce787e2
+      internalID: -1078836964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockL2_3
+      rect:
+        serializedVersion: 2
+        x: 3146
+        y: 1352
+        width: 813
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8371f9e74e84423489d79b74fcd0bab3
+      internalID: 238781771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockL1_0
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 1268
+        width: 666
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d3f54b8c30516489bb3eaa1c57b421
+      internalID: -253971030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockL1_1
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 1016
+        width: 666
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02b43b23ba3a834b97424a38e3a0c1d
+      internalID: 1506432240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockL1_2
+      rect:
+        serializedVersion: 2
+        x: 2186
+        y: 1168
+        width: 666
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5079ebe4a1f6a1f4283819add50de2f4
+      internalID: 1512030116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brockL1_3
+      rect:
+        serializedVersion: 2
+        x: 2186
+        y: 916
+        width: 666
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9204106ca4af6544c8b845f68b6e126e
+      internalID: 785258219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockM1_0
+      rect:
+        serializedVersion: 2
+        x: 2882
+        y: 1072
+        width: 331
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f021c149886df4b42b5f8114c2ad28c3
+      internalID: 1656425461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockM1_1
+      rect:
+        serializedVersion: 2
+        x: 3217
+        y: 988
+        width: 331
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13805b3ab5dd8ac47bb65413b3f8130d
+      internalID: -2112056386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockM1_2
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 819
+        width: 331
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f23f15f4f5e2d4e8bc993f3d246e27
+      internalID: -1591236548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockM1_3
+      rect:
+        serializedVersion: 2
+        x: 3585
+        y: 1144
+        width: 331
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd41a88a72533048a6a534fc19f5819
+      internalID: 109114279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tnt
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 3
+        width: 277
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960f1aee34f60f04e8a800d22da3dbeb
+      internalID: -721183486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      glassTR1_0: 949560963
+      woodRE1_2: -2096206502
+      glassSQ1_3: 284631775
+      glassTR2_0: 387655129
+      glassL1_2: 1877422972
+      woodSQH1_0: -113655507
+      glassL1_3: -539436022
+      rockL2_2: -1078836964
+      rockTR1_2: 15326228
+      woodL2_: 1616137067
+      rockRE1_2: 1791085722
+      glassL2_2: -71771492
+      rockRE1_1: -174536597
+      woodSQH1_2: -1348311401
+      glassSQH1_2: 1390667739
+      woodL2_2: -659381182
+      rockS1_0: 56866805
+      woodL2_0: -1328202100
+      glassS1_0: 1365686312
+      brockL1_3: 785258219
+      glassS2_0: -542862719
+      woodL2_1: 1585215805
+      glassTR1_3: 893320268
+      woodL1_2: 656164732
+      woodS2_2: 1139841635
+      glassRE1_0: -483092034
+      woodRE1_3: -1831489961
+      woodL1_1: -751612545
+      blocks_0: 709916460
+      glassTR2_1: 1001663816
+      glassS1_3: -1408687602
+      woodTR1_2: -649778701
+      rockTR2_0: -710929761
+      woodTR1_3: 503827786
+      woodRE1_1: -229868444
+      woodSQ1_3: 105490931
+      glassRE1_3: -1868196179
+      rockL2_0: 2133116957
+      glassL2_1: 1506407626
+      smallPivot: 565240190
+      woodTR2_3: 381598743
+      glassSQ1_2: 1729510222
+      woodM1_2: 1548436341
+      glassTR2_3: -470039300
+      glassS2_3: -559815955
+      glassSQ1_0: -88771675
+      woodSQH1_3: -2121645436
+      rockS1_2: -1428023421
+      rockM1_1: -2112056386
+      woodL1_0: -921863230
+      glassSQ1_1: 906850734
+      rockM1_2: -1591236548
+      rockTR2_2: 1622076535
+      woodM1_1: 1381972392
+      rockRE1_0: -2086683791
+      glassTR1_2: -151198800
+      woodS2_0: 83614125
+      woodTR2_1: -6497008
+      glassTR2_2: 472899754
+      glassL2_0: -965524131
+      woodTR2_0: -1223213141
+      rockS2_2: 388724972
+      woodS1_: 770659362
+      woodS2_1: -1929981924
+      rockTR2_1: 489481762
+      glassL1_1: 2138296256
+      woodM1_0: -1808877001
+      woodSQ1_2: -1431490154
+      rockSQ1_1: 1131203237
+      tnt: -721183486
+      rockRE1_3: 64734983
+      glassM1_2: 298069923
+      woodL1_3: -10836642
+      rockS1_1: 1424124615
+      glassSQH1_1: -132788467
+      rockL1_1: 1506432240
+      rockTR1_3: -204259878
+      rockSQ1_2: -1888647556
+      woodSQ1_1: -992273696
+      glassSQH1_0: 1902540940
+      rockM1_0: 1656425461
+      rockS1_3: -1310806697
+      woodS1_0: 257507543
+      woodRE1_0: 1286896224
+      rockSQ1_0: -1893628554
+      glassS2_2: -555566724
+      glassTR1_1: 1395785860
+      woodTR1_1: -2006063641
+      rockL1_2: 1512030116
+      woodSQ1_0: 453680261
+      rockS2_3: -1293884688
+      glassM1_3: -702987960
+      woodS2_3: -237484658
+      woodSQH1_1: -622378020
+      rockSQH1_1: 1202094592
+      rockSQH1_2: -1712531470
+      glassL1_0: -1883468984
+      rockTR1_1: -917084723
+      glassRE1_1: 1024176220
+      rockTR1_0: -1390307950
+      woodTR2_2: -2072191605
+      woodS1_2: -1267630055
+      glassS1_2: 2005226977
+      glassL2_3: 719527826
+      rockM1_3: 109114279
+      bounce: -850076986
+      rockS2_0: 1945287625
+      woodTR1_0: 64986992
+      glassM1_0: 476029605
+      woodS1_1: -1658665599
+      glassM1_1: 1606673898
+      glassRE1_2: 1966400380
+      rockSQH1_0: 1145405682
+      rockSQ1_3: -83033091
+      rockSQH1_3: 2016218614
+      rockTR2_3: -1490202555
+      rockL2_3: 238781771
+      woodM1_3: 1469454727
+      glassS2_1: -656428331
+      rockL1_0: -253971030
+      rockS2_1: 917790728
+      glassSQH1_3: -772886519
+      rockL2_1: 119795675
+      glassS1_1: -2049466241
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
