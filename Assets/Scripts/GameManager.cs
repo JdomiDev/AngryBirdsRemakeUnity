@@ -32,8 +32,6 @@ public class GameManager : MonoBehaviour
 
     public static int birdsNumber;
 
-    public static bool isRunning = false;
-
 
 
     // voids 
@@ -69,7 +67,6 @@ public class GameManager : MonoBehaviour
         BirdsCopy = null;
         Pigs = null;
         currentBirdIndex = 0;
-        isRunning = false;
 
         // define lists
 
@@ -264,8 +261,6 @@ public class GameManager : MonoBehaviour
 
     public IEnumerator moveBirdToNextPost()
     {
-        GameManager.isRunning = true;
-
         BirdsCopy.RemoveAt(0);
         int birdCount = BirdsCopy.Count();
         int birdIndex = 0;
@@ -275,8 +270,6 @@ public class GameManager : MonoBehaviour
 
         void isRunningComplete()
         {
-            Debug.Log(birdCount);
-            Debug.Log(birdIndex);
             isRunning = false;
         }
 
@@ -291,7 +284,5 @@ public class GameManager : MonoBehaviour
                 birdIndex++;
             }
         }
-
-        GameManager.isRunning = false;
     }
 }

@@ -302,40 +302,43 @@ public class Bird : MonoBehaviour
     {
         while (1 == 1)
         {
-            if(1 == 1)
+            if (GameManager.CurrentGameState == GameState.Won || GameManager.CurrentGameState == GameState.Won)
             {
-                if (GameManager.CurrentGameState == GameState.Won || GameManager.CurrentGameState == GameState.Won)
+                break;
+            }
+            yield return new WaitForSeconds(Random.Range(1f, 2f));
+            if (Thrown == false && Collided == false)
+            {
+                if (Random.Range(0, 2) == 1)
                 {
-                    break;
+                    spriteRenderer.sprite = spriteListAmbient[1];
+                    audio.PlayOneShot(soundListAmbient[Random.Range(0, 12)]);
+                    transform.localScale = new Vector3(transform.localScale.x, transform.localScale.y * 0.9f, transform.localScale.z);
+                    yield return new WaitForSeconds(0.25f);
+                    transform.localScale = cachedScale;
+                    spriteRenderer.sprite = spriteListAmbient[0];
                 }
-                yield return new WaitForSeconds(Random.Range(1f, 2f));
-                if (Thrown == false && Collided == false)
+                else
                 {
-                    if (Random.Range(0, 2) == 1)
-                    {
-                        spriteRenderer.sprite = spriteListAmbient[1];
-                        audio.PlayOneShot(soundListAmbient[Random.Range(0, 12)]);
-                        transform.localScale = new Vector3(transform.localScale.x, transform.localScale.y * 0.9f, transform.localScale.z);
-                        yield return new WaitForSeconds(0.25f);
-                        transform.localScale = cachedScale;
-                        spriteRenderer.sprite = spriteListAmbient[0];
-                    }
-                    else
-                    {
-                        spriteRenderer.sprite = spriteListAmbient[2];
-                        yield return new WaitForSeconds(0.25f);
-                        spriteRenderer.sprite = spriteListAmbient[0];
-                    }
+                    spriteRenderer.sprite = spriteListAmbient[2];
+                    yield return new WaitForSeconds(0.25f);
+                    spriteRenderer.sprite = spriteListAmbient[0];
                 }
-                else if (Thrown == true && Collided == false && Boosted == false && birdType != 3)
-                {
-                    spriteRenderer.sprite = spriteListThrown[0];
-                }
-                if (GameManager.Birds[GameManager.currentBirdIndex] != gameObject && State == BirdState.BeforeThrown && Random.Range(0, 2) == 1)
+            }
+            else if (Thrown == true && Collided == false && Boosted == false && birdType != 3)
+            {
+                spriteRenderer.sprite = spriteListThrown[0];
+            }
+            if (GameManager.Birds[GameManager.currentBirdIndex] != gameObject && State == BirdState.BeforeThrown && Random.Range(0, 2) == 1)
+            {
+                if (rb.velocity.magnitude != 0)
                 {
                     gameObject.transform.DOJump(new Vector3(gameObject.transform.position.x, gameObject.transform.position.y, gameObject.transform.position.z), 0.3f, 1, 0.3f);
                 }
-                else if (GameManager.Birds[GameManager.currentBirdIndex] != gameObject && State == BirdState.BeforeThrown)
+            }
+            else if (GameManager.Birds[GameManager.currentBirdIndex] != gameObject && State == BirdState.BeforeThrown)
+            {
+                if (rb.velocity.magnitude != 0)
                 {
                     gameObject.transform.DOJump(new Vector3(gameObject.transform.position.x, gameObject.transform.position.y, gameObject.transform.position.z), 0.3f, 1, 0.3f);
                     gameObject.transform.DOLocalRotate(new Vector3(0, 0, 360), 0.3f, RotateMode.FastBeyond360).SetRelative(true).SetEase(Ease.Linear);
