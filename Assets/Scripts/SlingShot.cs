@@ -168,6 +168,7 @@ public class SlingShot : MonoBehaviour
                         }
                         BirdToThrow.transform.position = maxPosition;
                     }
+                
                     else
                     {
                         if(BirdWaitPosition.transform.position.x - BirdToThrow.transform.position.x <= 0.3f && BirdWaitPosition.transform.position.x - BirdToThrow.transform.position.x >= -0.3f)
@@ -194,7 +195,7 @@ public class SlingShot : MonoBehaviour
 
                     float distance = Vector3.Distance(SlingshotMiddleVector, BirdToThrow.transform.position);
 
-                    if (distance > 0.5f)
+                    if (distance > 0.75f)
                     {
                         audio.PlayOneShot(shootClips[UnityEngine.Random.Range(0, 3)], 0.5f);
 
