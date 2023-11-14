@@ -2,7 +2,7 @@
 
 ![Angry Birds style game](https://i.ibb.co/fQBKr9M/K-pkiv-g-s.png)
 
-An effort to replicate a level and relevant mechanisms of Rovio's famous Angry Birds game, built in Unity game engine. Source code is provided for educational purposes.
+An effort to replicate some of the levels and relevant mechanisms of Rovio's famous Angry Birds game, built in Unity game engine. Source code is provided for educational purposes.
 
 ### Assets
 
