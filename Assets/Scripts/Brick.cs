@@ -126,18 +126,6 @@ public class Brick : MonoBehaviour
 
         Rigidbody2D colRB = col.gameObject.GetComponent<Rigidbody2D>();
 
-
-
-
-
-
-
-
-
-
-
-
-
         // birdcheck 
         if (col.gameObject.tag == "Bird")
         {
@@ -230,10 +218,6 @@ public class Brick : MonoBehaviour
             GameObject particleObject = Instantiate(woodParticle, transform.position, transform.rotation);
             Destroy(particleObject, 5f);
         }
-
-
-
-
         // small text
         if(currentHealth - damage > 0 && damage > 10)
         {
@@ -252,27 +236,6 @@ public class Brick : MonoBehaviour
             }
             score.scoreUpdate(Mathf.RoundToInt(damage * 5f));
         }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
         //decrease health according to magnitude of the object that hit us
         currentHealth -= damage;
 
