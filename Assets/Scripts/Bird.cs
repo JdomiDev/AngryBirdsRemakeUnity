@@ -32,8 +32,6 @@ public class Bird : MonoBehaviour
     //[SerializeField] private GameObject particleObject;
     [SerializeField] private GameObject egg;
 
-
-
     [SerializeField] public Color32 color;
 
     [SerializeField] public Color32 outlineColor;
@@ -268,17 +266,11 @@ public class Bird : MonoBehaviour
             Collided = true;
         }
     }
-
-    
     private void OnDestroy()
     {
         Exploded = true;
     }
-
-
-
     // enums
-
     private IEnumerator CreatePathPoints()
     {
         while (true)
@@ -407,13 +399,6 @@ public class Bird : MonoBehaviour
             Destroy(gameObject);
         }
     }
-
-
-
-
-
-
-
 
 
     public BirdState State
